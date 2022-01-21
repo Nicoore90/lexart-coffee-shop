@@ -1,0 +1,28 @@
+2022-01-21T03:10:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\lexart_prueba\wp-includes\functions.wp-scripts.php en la línea 133
+
+2022-01-21T14:09:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\google-listings-and-ads\src\Admin\ActivationRedirect.php en la línea 21
+
+2022-01-21T14:50:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\ReportExporter.php en la línea 8
+
+2022-01-21T14:50:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\lexart_prueba\wp-includes\blocks.php en la línea 198
+
+2022-01-21T15:05:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\ShippingAddressSchema.php en la línea 80
+
+2022-01-21T15:28:05+00:00 CRITICAL syntax error, unexpected end of file, expecting ';' or ',' en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\tabla_ordenes\lista_ordenes.php en la línea 3
+
+2022-01-21T16:27:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\RemoteFreeExtensions\Init.php en la línea 8
+
+2022-01-21T17:51:52+00:00 CRITICAL syntax error, unexpected end of file en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\tabla_ordenes\lista_ordenes.php en la línea 42
+
+2022-01-21T17:52:29+00:00 CRITICAL syntax error, unexpected end of file en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\tabla_ordenes\lista_ordenes.php en la línea 39
+
+2022-01-21T17:53:14+00:00 CRITICAL syntax error, unexpected end of file en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\tabla_ordenes\lista_ordenes.php en la línea 39
+
+2022-01-21T18:07:31+00:00 CRITICAL syntax error, unexpected end of file en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\tabla_ordenes\lista_ordenes.php en la línea 40
+
+2022-01-21T18:18:26+00:00 CRITICAL syntax error, unexpected end of file en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\tabla_ordenes\lista_ordenes.php en la línea 40
+
+2022-01-21T18:19:01+00:00 CRITICAL syntax error, unexpected end of file en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\tabla_ordenes\lista_ordenes.php en la línea 40
+
+2022-01-21T18:36:22+00:00 CRITICAL syntax error, unexpected '$lista_total' (T_VARIABLE) en C:\xampp\htdocs\lexart_prueba\wp-content\plugins\tabla_ordenes\lista_ordenes.php en la línea 6
+
